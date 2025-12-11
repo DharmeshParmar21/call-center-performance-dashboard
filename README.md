@@ -6,14 +6,12 @@
 ---
 
 ## 📌 Project Overview  
-This project analyzes **call centre performance for the year 2023** using a dynamic Excel dashboard built with **Power Query**, **PivotTables**, and **visual analytics**.  
-
-The dashboard helps business stakeholders monitor KPIs, understand customer behavior, evaluate representatives, and uncover meaningful operational insights.
+This project analyzes call centre performance using dynamic Excel dashboards powered by **Power Query**, enabling business teams to monitor KPIs, customer demographics, and representative performance.
 
 ---
 
 # 📚 Table of Contents  
-Click any section to jump directly:
+Click to navigate:
 
 1. [Project Objectives](#project-objectives)  
 2. [Features](#features)  
@@ -27,87 +25,78 @@ Click any section to jump directly:
 
 ---
 
-## 🎯 Project Objectives  
-- Provide a **complete analytical view** of call centre performance across operational and customer satisfaction metrics.  
-- Understand **customer demographics** by merging the Calls and Customers datasets.  
-- Track performance of **individual representatives** and highlight improvement opportunities.  
-- Deliver a user-friendly, interactive Excel dashboard for data-driven business decisions.
+## Project Objectives  
+- Provide a complete analytical view of call centre performance.  
+- Merge demographic data with call records for deeper insights.  
+- Track representative performance and identify improvement areas.  
+- Deliver user-friendly dashboard visuals for decision-making.
 
 ---
 
-## ⭐ Features  
-- ✔ Interactive Excel Dashboard  
-- ✔ Monthly Call Trends  
-- ✔ Call Volume by Day of Week  
-- ✔ Gender & City Comparison  
-- ✔ Satisfaction Rating Distribution  
-- ✔ Representative-level Calls & Revenue  
-- ✔ Customer–Representative Revenue Matrix  
-- ✔ KPIs at a glance (Total Calls, Revenue, Duration, Avg. Rating, Happy Callers)
+## Features  
+- Interactive Excel dashboard  
+- Monthly call trends  
+- Day-of-week call distribution  
+- Gender & city segmentation  
+- Rating distribution charts  
+- Representative call and revenue analysis  
+- Customer–representative revenue matrix  
+- KPIs: Total Calls, Duration, Revenue, Average Ratings, Happy Callers
 
 ---
 
-## 🧩 Data Model Overview  
-A simple two-table model where **Customer ID** is used to merge call activity with demographic data.  
-This enables analysis by gender, age, city, and representative performance within one unified dashboard.
+## Data Model Overview  
+A simple two-table model connected using **Customer ID**, allowing demographic analysis alongside call activity.
 
 ---
 
-## 🧭 How to Use the Dashboard  
-- There is **one main filter: Representative**, allowing users to explore each rep’s performance individually.  
-- Review KPIs on the left to understand overall performance.  
-- Use the charts to explore call trends, satisfaction levels, and demographic patterns.  
-- The customer–representative matrix provides a detailed view of revenue distribution.
+## Dashboard Preview  
+![Dashboard Screenshot](https://github.com/DharmeshParmar21/call-center-performance-dashboard/blob/main/Dashboard.png)
 
 ---
 
-## 🔍 Key Insights  
-- **Top Representative:** R03 with $20.9K revenue.  
-- **Busiest Day:** Saturday (161 calls recorded).  
-- **Ratings:** Majority of calls rated 4 or 5, indicating strong satisfaction.  
-- **City Insight:** Cleveland shows the highest female engagement (326 calls).  
-- **High-Value Customers:** C0004 and C0011 contribute significantly across multiple reps.
+## How to Use the Dashboard  
+- There is **one main filter: Representative** used to review each rep’s performance.  
+- KPI cards show overall business performance.  
+- Charts display trends and segmentation patterns.  
+- Revenue matrix provides customer-level insights.
 
 ---
 
-## 🚀 Strategic Recommendations for Business Growth  
-- **Enhance Representative Training:**  
-  Target coaching for reps with lower satisfaction ratings.
-
-- **Leverage Top Performers:**  
-  Utilize R03 & R05 as mentors or assign them high-value clients.
-
-- **Optimize Resource Allocation:**  
-  Increase staff availability on the busiest days (Saturday, Wednesday).
-
-- **Use Demographic Insights:**  
-  Run targeted engagement campaigns in high-performing cities like Cleveland.
-
-- **Reward High-Value Customers:**  
-  Offer loyalty incentives to repeat and high-revenue customers.
-
-- **Improve Low-Rated Interactions:**  
-  Investigate calls rated 1–3 to enhance customer satisfaction.
-
-- **Adopt Data-Driven Decision-Making:**  
-  Continuously monitor the dashboard for performance improvements.
+## Key Insights  
+- **Top Rep:** R03 with $20.9K  
+- **Busiest Day:** Saturday (161 calls)  
+- **Satisfaction:** Ratings 4 and 5 dominate  
+- **City Trend:** Cleveland has highest female call volume  
+- **High-Value Customers:** C0004, C0011 contribute most revenue
 
 ---
 
-## 📂 Files Included  
-| File | Description |
-|------|-------------|
-| `Call Centre Excel Portfolio Project.xlsx` | Raw data + Power Query model |
-| `CALL-CENTRE-REPORT-2023.pptx` | Presentation for management |
-| `Dashboard.png` | Dashboard screenshot used in README |
+## Strategic Recommendations for Business Growth  
+- **Enhance Representative Training:** Support reps with lower satisfaction scores.  
+- **Leverage Top Performers:** Use R03 & R05 for mentoring and key customers.  
+- **Optimize Resource Allocation:** Increase staffing on peak days.  
+- **Use Demographic Insights:** Target Cleveland for engagement campaigns.  
+- **Reward High-Value Customers:** Provide loyalty perks to repeat clients.  
+- **Improve Low-Rated Calls:** Analyze calls rated 1–3 for service improvement.  
+- **Data-Driven Decisions:** Regularly review dashboard insights.
 
 ---
 
-## 👤 Author  
+## Files Included  
+| File Name | Description |
+|-----------|-------------|
+| [Call Centre Portfolio Project.xlsx](https://github.com/DharmeshParmar21/call-center-performance-dashboard/blob/main/Call%20Centre-excel-portfolio-project.xlsx) | Power Query model + raw data |
+| [CALL-CENTRE-REPORT-2023.pptx](https://github.com/DharmeshParmar21/call-center-performance-dashboard/blob/main/CALL-CENTRE-REPORT-2023.pptx) | Full presentation report |
+| [Dashboard.png](https://github.com/DharmeshParmar21/call-center-performance-dashboard/blob/main/Dashboard.png) | Dashboard screenshot |
+
+
+---
+
+## Author  
 **Dharmesh Parmar**  
 **Data Analyst | SQL | Excel | Power BI | Python**  
 📧 Email: **Dhparmar@gmail.com**  
 🔗 GitHub: **[DharmeshParmar21](https://github.com/DharmeshParmar21)**  
 
 ---
-
