@@ -50,11 +50,6 @@ A simple two-table model connected using **Customer ID**, allowing demographic a
 
 ---
 
-## Dashboard Preview  
-![Dashboard Screenshot](https://github.com/DharmeshParmar21/call-center-performance-dashboard/blob/main/Dashboard.png)
-
----
-
 ## How to Use the Dashboard  
 - There is **one main filter: Representative** used to review each rep’s performance.  
 - KPI cards show overall business performance.  
@@ -64,11 +59,11 @@ A simple two-table model connected using **Customer ID**, allowing demographic a
 ---
 
 ## Key Insights  
-- **Top Rep:** R03 with $20.9K  
-- **Busiest Day:** Saturday (161 calls)  
-- **Satisfaction:** Ratings 4 and 5 dominate  
-- **City Trend:** Cleveland has highest female call volume  
-- **High-Value Customers:** C0004, C0011 contribute most revenue
+- **Top Representative:** R03 with $20.9K revenue.  
+- **Busiest Day:** Saturday (161 calls recorded).  
+- **Ratings:** Majority of calls rated 4 or 5, indicating strong satisfaction.  
+- **City Insight:** Cleveland shows the highest female engagement (326 calls).  
+- **High-Value Customers:** C0004 and C0011 contribute significantly across multiple reps.
 
 ---
 
